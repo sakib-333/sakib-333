@@ -28,63 +28,43 @@
 
 ###
 
-<div align="center" width="50%" style="display:flex; justify-content:space-between; flex-wrap: wrap;">
-<p>
+<div align="center">
   <a href='https://git-scm.com/doc'>
-  <img title="Git" src="./icons/git-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://www.typescriptlang.org/docs/'>
-  <img title="TypeScript" src="./icons/typescript-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-  <img title="JavaScript" src="./icons/javascript-icon.svg" height="60" alt="JavaScript-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://react.dev/learn'>
-  <img title="React" src="./icons/react-icon.svg" height="60" alt="React-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
+    <img title="Git" src="./icons/git-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
+  </a>
+  <a href='https://www.typescriptlang.org/docs/'>
+    <img title="TypeScript" src="./icons/typescript-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px"/>
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+    <img title="JavaScript" src="./icons/javascript-icon.svg" height="60" alt="JavaScript-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
+  </a>
+  <a href='https://react.dev/learn'>
+    <img title="React" src="./icons/react-icon.svg" height="60" alt="React-logo" style="padding:10px; background-color:#2f2f2f;" />
+  </a>
 
-<p>
-<a href='https://nodejs.org/docs/latest/api/'>
-  <img title="NodeJS" src="./icons/nodejs-icon.svg" height="60" alt="NodeJS-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://tailwindcss.com/'>
-  <img title="Tailwind CSS" src="./icons/tailwindcss-icon.svg" height="60" alt="Tailwind CSS-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://mui.com/material-ui/getting-started/'>
-  <img title="Material UI" src="./icons/material-ui-icon.svg" height="60" alt="Material-UI-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://getbootstrap.com/docs/4.1/getting-started/introduction/'>
-  <img title="Bootstrap" src="./icons/bootstrap-icon.svg" height="60" alt="Bootstrap-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://www.mongodb.com/docs/manual/core/document/'>
-  <img title="MongoDB" src="./icons/mongodb-icon.svg" height="60" alt="MongoDB-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://www.w3schools.com/cpp/'>
-  <img title="C++" src="./icons/c-plus-plus-icon.svg" height="60" alt="C++-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
-<p>
-<a href='https://www.w3schools.com/c/c_intro.php'>
-  <img title="C Programming" src="./icons/c-icon.svg" height="60" alt="C-logo" style="padding:10px; background-color:#2f2f2f" />
-</a>
-</p>
+  <br/>
+  <a href='https://nodejs.org/docs/latest/api/'>
+    <img title="NodeJS" src="./icons/nodejs-icon.svg" height="60" alt="NodeJS-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
+  </a>
+  <a href='https://tailwindcss.com/'>
+    <img title="Tailwind CSS" src="./icons/tailwindcss-icon.svg" height="60" alt="Tailwind CSS-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
+  </a>
+  <a href='https://mui.com/material-ui/getting-started/'>
+    <img title="Material UI" src="./icons/material-ui-icon.svg" height="60" alt="Material-UI-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
+  </a>
+  <a href='https://getbootstrap.com/docs/4.1/getting-started/introduction/'>
+    <img title="Bootstrap" src="./icons/bootstrap-icon.svg" height="60" alt="Bootstrap-logo" style="padding:10px; background-color:#2f2f2f;" />
+  </a>
+  <br/>
+  <a href='https://www.mongodb.com/docs/manual/core/document/'>
+    <img title="MongoDB" src="./icons/mongodb-icon.svg" height="60" alt="MongoDB-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
+  </a>
+  <a href='https://www.w3schools.com/cpp/'>
+    <img title="C++" src="./icons/c-plus-plus-icon.svg" height="60" alt="C++-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
+  </a>
+  <a href='https://www.w3schools.com/c/c_intro.php'>
+    <img title="C Programming" src="./icons/c-icon.svg" height="60" alt="C-logo" style="padding:10px; background-color:#2f2f2f" />
+  </a>
 </div>
 
 ###
