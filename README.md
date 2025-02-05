@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m a passionate web developer with expertise in the <strong> MERN</strong> stack (MongoDB, Express, React, and Node.js). I thrive on building scalable and efficient applications, blending both front-end and back-end development. My journey in web development started with a curiosity to understand how the web works, and I’ve since honed my skills in creating dynamic, user-friendly websites and applications.<br><br>With a strong foundation in React and modern JavaScript, I specialize in building full-stack solutions that not only look great but are also performance-optimized. I love crafting intuitive user interfaces and connecting them with powerful back-end services, ensuring seamless experiences for users.<br><br>When I’m not coding, I’m exploring new web technologies, improving my development skills, or collaborating with like-minded individuals on exciting projects.</p>
+<p align="left">I’m a passionate web developer with expertise in the <strong>MERN</strong> stack (MongoDB, Express, React, Node.js). I specialize in building scalable, user-friendly, and performance-optimized full-stack applications. With a strong foundation in React and modern JavaScript, I create seamless front-end and back-end integrations. Outside of coding, I explore new web technologies and collaborate on exciting projects.</p>
 
 ###
 
