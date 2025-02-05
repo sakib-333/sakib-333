@@ -75,13 +75,13 @@
 
 <div align="center">
 <a href='https://www.linkedin.com/in/sakibur-rahman' target="_blank">
-  <img title="Linkedin" src="./icons/linkedin-icon.svg" height="40" alt="linkedin-logo" />
+  <img title="Linkedin" src="./icons/linkedin-icon.svg" height="60" alt="linkedin-logo" />
 </a>
 <a href='https://www.facebook.com/sakib071' target="_blank">
-  <img title="Facebook" src="./icons/facebook-icon.svg" height="40" alt="facebook-logo" style="margin-right: 10px;" />
+  <img title="Facebook" src="./icons/facebook-icon.svg" height="60" alt="facebook-logo" style="margin-right: 10px;" />
 </a>
 <a href='https://x.com/sakib_333x' target="_blank">
-  <img title="Twitter" src="./icons/twitter-icon.svg" height="40" alt="twitter-logo" />
+  <img title="Twitter" src="./icons/twitter-icon.svg" height="60" alt="twitter-logo" />
 </a>
 </div>
 
