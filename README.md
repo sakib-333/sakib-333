@@ -30,34 +30,34 @@
 
 <div align="left">
 <a href='https://git-scm.com/doc'>
-  <img title="Git" src="./icons/git-icon.svg" height="40" alt="git logo" style="margin-right: 10px;" />
+  <img title="Git" src="./icons/git-icon.svg" height="40" alt="git logo" style="margin-right: 16px;" />
 </a>
 <a href='https://www.typescriptlang.org/docs/'>
-  <img title="TypeScript" src="./icons/typescript-icon.svg" height="40" alt="TypeScript-logo" style="margin-right: 10px;" />
+  <img title="TypeScript" src="./icons/typescript-icon.svg" height="40" alt="TypeScript-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-  <img title="JavaScript" src="./icons/javascript-icon.svg" height="40" alt="JavaScript-logo" style="margin-right: 10px;" />
+  <img title="JavaScript" src="./icons/javascript-icon.svg" height="40" alt="JavaScript-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://react.dev/learn'>
-  <img title="React" src="./icons/react-icon.svg" height="40" alt="React-logo" style="margin-right: 10px;" />
+  <img title="React" src="./icons/react-icon.svg" height="40" alt="React-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://nodejs.org/docs/latest/api/'>
-  <img title="NodeJS" src="./icons/nodejs-icon.svg" height="40" alt="NodeJS-logo" style="margin-right: 10px;" />
+  <img title="NodeJS" src="./icons/nodejs-icon.svg" height="40" alt="NodeJS-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://tailwindcss.com/'>
-  <img title="Tailwind CSS" src="./icons/tailwindcss-icon.svg" height="40" alt="Tailwind CSS-logo" style="margin-right: 10px;" />
+  <img title="Tailwind CSS" src="./icons/tailwindcss-icon.svg" height="40" alt="Tailwind CSS-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://mui.com/material-ui/getting-started/'>
-  <img title="Material UI" src="./icons/material-ui-icon.svg" height="40" alt="Material-UI-logo" style="margin-right: 10px;" />
+  <img title="Material UI" src="./icons/material-ui-icon.svg" height="40" alt="Material-UI-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://getbootstrap.com/docs/4.1/getting-started/introduction/'>
-  <img title="Bootstrap" src="./icons/bootstrap-icon.svg" height="40" alt="Bootstrap-logo" style="margin-right: 10px;" />
+  <img title="Bootstrap" src="./icons/bootstrap-icon.svg" height="40" alt="Bootstrap-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://www.mongodb.com/docs/manual/core/document/'>
-  <img title="MongoDB" src="./icons/mongodb-icon.svg" height="40" alt="MongoDB-logo" style="margin-right: 10px;" />
+  <img title="MongoDB" src="./icons/mongodb-icon.svg" height="40" alt="MongoDB-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://www.w3schools.com/cpp/'>
-  <img title="C++" src="./icons/c-plus-plus-icon.svg" height="40" alt="C++-logo" style="margin-right: 10px;" />
+  <img title="C++" src="./icons/c-plus-plus-icon.svg" height="40" alt="C++-logo" style="margin-right: 16px;" />
 </a>
 <a href='https://www.w3schools.com/c/c_intro.php'>
   <img title="C Programming" src="./icons/c-icon.svg" height="40" alt="C-logo" />
