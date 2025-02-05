@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <a href='https://git-scm.com/doc'>
   <img title="Git" src="./icons/git-icon.svg" height="40" alt="git logo" style="margin-right: 16px;" />
 </a>
@@ -41,6 +41,7 @@
 <a href='https://react.dev/learn'>
   <img title="React" src="./icons/react-icon.svg" height="40" alt="React-logo" style="margin-right: 16px;" />
 </a>
+<br/>
 <a href='https://nodejs.org/docs/latest/api/'>
   <img title="NodeJS" src="./icons/nodejs-icon.svg" height="40" alt="NodeJS-logo" style="margin-right: 16px;" />
 </a>
@@ -56,6 +57,7 @@
 <a href='https://www.mongodb.com/docs/manual/core/document/'>
   <img title="MongoDB" src="./icons/mongodb-icon.svg" height="40" alt="MongoDB-logo" style="margin-right: 16px;" />
 </a>
+<br/>
 <a href='https://www.w3schools.com/cpp/'>
   <img title="C++" src="./icons/c-plus-plus-icon.svg" height="40" alt="C++-logo" style="margin-right: 16px;" />
 </a>
@@ -71,7 +73,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <a href='https://www.linkedin.com/in/sakibur-rahman' target="_blank">
   <img title="Linkedin" src="./icons/linkedin-icon.svg" height="40" alt="linkedin-logo" />
 </a>
