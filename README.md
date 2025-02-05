@@ -87,16 +87,22 @@
 
 <h2 align="left">My Stats:</h2>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=sakib-333&show_icons=true&count_private=true&hide=prs)
+<p align="center">
+  <img width="50%" align="center" src='https://github-readme-stats.vercel.app/api?username=sakib-333&theme=prussian&show_icons=true'/>
+</p>
 
 ###
 
 <h2 align="left">Most Used Languages:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-333&layout=compact)
+<p align="center">
+  <img width="50%" align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-333&layout=compact&theme=prussian&show_icons=true'/>
+</p>
 
 ###
 
 <h2 align="left">GitHub Streak:</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakib-333)](https://git.io/streak-stats)
+<p align="center">
+  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakib-333&theme=prussian&show_icons=true"/>
+</p>
