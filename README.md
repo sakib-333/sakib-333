@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Sakib, <strong>front-end web develoer</strong> from Bangladesh. Currently living <strong>Gopalganj, Dhaka.</strong></p>
+<p align="left">I'm Sakib, <strong>front-end web develoer</strong> from Bangladesh. Currently living <strong>Dhaka.</strong></p>
 
 ###
 
@@ -108,3 +108,4 @@
 <p align="center">
   <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakib-333&theme=prussian&show_icons=true"/>
 </p>
+
