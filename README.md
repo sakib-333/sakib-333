@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="./icons/github-banner.png"/>
+  <img height="200" src="./images/github-banner.png"/>
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m a passionate MERN Stack Developer with hands-on experience in MongoDB, Express, React, and Node.js, along with professional exposure to React Native for building cross-platform mobile applications. With over 2 years of experience, I enjoy developing scalable, efficient, and user-centric solutions by blending strong front-end craftsmanship with reliable back-end logic. Currently, I work as a <strong>Software Developer</strong> at <a href='https://edutechs.app'>Edutechs</a>, where I build and maintain production-ready web and mobile applications.
+<p align="left">I’m a passionate MERN Stack Developer with hands-on experience in MongoDB, Express, React, and Node.js, along with professional exposure to React Native for building cross-platform mobile applications. With over 2 years of experience, I enjoy developing scalable, efficient, and user-centric solutions by blending strong front-end craftsmanship with reliable back-end logic. Currently, I work as a <strong>Software Developer</strong> at <a href='https://edutechs.app' target="_blank">Edutechs</a>, where I build and maintain production-ready web and mobile applications.
 
 As a computer science<strong>&#40;CSE&#41;</strong> graduate and an active competitive programmer, I have built a strong foundation in programming fundamentals, problem-solving, and algorithmic thinking. This background enables me to write clean, efficient, and scalable code that performs well in real-world production environments.
 
@@ -35,47 +35,137 @@ WhatsApp: +8801955-207333</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My skills</h2>
 
 ###
 
 <div align="center">
-  <a href='https://git-scm.com/doc'>
-    <img title="Git" src="./icons/git-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
-  </a>
-  <a href='https://www.typescriptlang.org/docs/'>
-    <img title="TypeScript" src="./icons/typescript-icon.svg" height="60" alt="TypeScript-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px"/>
-  </a>
-  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-    <img title="JavaScript" src="./icons/javascript-icon.svg" height="60" alt="JavaScript-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
-  </a>
-  <a href='https://react.dev/learn'>
-    <img title="React" src="./icons/react-icon.svg" height="60" alt="React-logo" style="padding:10px; background-color:#2f2f2f;" />
-  </a>
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td>
+      <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
+        <img src="./skills-logo/c-logo.png" title="C Programming" alt="C-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cpp" target="_blank">
+        <img src="./skills-logo/cpp-logo.png" title="C++" alt="C++-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="./skills-logo/js-logo.png" title="JavaScript" alt="JavaScript-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="./skills-logo/ts-logo.png" title="TypeScript" alt="TypeScript-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="./skills-logo/html-logo.png" title="HTML" alt="HTML-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+  </tr>
 
-  <br/>
-  <a href='https://nodejs.org/docs/latest/api/'>
-    <img title="NodeJS" src="./icons/nodejs-icon.svg" height="60" alt="NodeJS-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
-  </a>
-  <a href='https://tailwindcss.com/'>
-    <img title="Tailwind CSS" src="./icons/tailwindcss-icon.svg" height="60" alt="Tailwind CSS-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
-  </a>
-  <a href='https://mui.com/material-ui/getting-started/'>
-    <img title="Material UI" src="./icons/material-ui-icon.svg" height="60" alt="Material-UI-logo" style="padding:10px; background-color:#2f2f2f; margin-right:16px" />
-  </a>
-  <a href='https://getbootstrap.com/docs/4.1/getting-started/introduction/'>
-    <img title="Bootstrap" src="./icons/bootstrap-icon.svg" height="60" alt="Bootstrap-logo" style="padding:10px; background-color:#2f2f2f;" />
-  </a>
-  <br/>
-  <a href='https://www.mongodb.com/docs/manual/core/document/'>
-    <img title="MongoDB" src="./icons/mongodb-icon.svg" height="60" alt="MongoDB-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
-  </a>
-  <a href='https://www.w3schools.com/cpp/'>
-    <img title="C++" src="./icons/c-plus-plus-icon.svg" height="60" alt="C++-logo" style="padding:10px; background-color:#2f2f2f;margin-right:16px" />
-  </a>
-  <a href='https://www.w3schools.com/c/c_intro.php'>
-    <img title="C Programming" src="./icons/c-icon.svg" height="60" alt="C-logo" style="padding:10px; background-color:#2f2f2f" />
-  </a>
+  <!-- Row 2 -->
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="./skills-logo/css-logo.png" title="CSS" alt="CSS-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="./skills-logo/tailwind-logo.png" title="Tailwind CSS" alt="Tailwind-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mui.com/" target="_blank">
+        <img src="./skills-logo/mui-logo.png" title="Material UI" alt="MUI-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://ui.shadcn.com/" target="_blank">
+        <img src="./skills-logo/shadcn-ui-logo.png" title="shadcn UI" alt="shadcn-ui-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="./skills-logo/react-logo.png" title="React" alt="React-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="./skills-logo/nextjs-logo.png" title="Next.js" alt="Next.js-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://ant.design/" target="_blank">
+        <img src="./skills-logo/ant-design-logo.png" title="Ant Design" alt="Ant Design-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://expo.dev/" target="_blank">
+        <img src="./skills-logo/expo-logo.png" title="Expo" alt="Expo-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="./skills-logo/nodejs-logo.png" title="Node.js" alt="Node.js-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="./skills-logo/express-logo.png" title="Express.js" alt="Express-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="./skills-logo/mongodb-logo.png" title="MongoDB" alt="MongoDB-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="./skills-logo/mysql-logo.png" title="MySQL" alt="MySQL-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://supabase.com/" target="_blank">
+        <img src="./skills-logo/supabase-logo.png" title="Supabase" alt="Supabase-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="./skills-logo/git-logo.png" title="Git" alt="Git-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="./skills-logo/vs-code-logo.png" title="VS Code" alt="VS Code-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td>
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="./skills-logo/redux-logo.png" title="Redux" alt="Redux-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ###
