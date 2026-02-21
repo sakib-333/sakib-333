@@ -175,15 +175,65 @@ WhatsApp: +8801955-207333</p>
 ###
 
 <div align="center">
-<a href='https://www.linkedin.com/in/sakibur-rahman' target="_blank">
-  <img title="Linkedin" src="./icons/linkedin-icon.svg" height="60" alt="linkedin-logo" />
-</a>
-<a href='https://www.facebook.com/sakib071' target="_blank">
-  <img title="Facebook" src="./icons/facebook-icon.svg" height="60" alt="facebook-logo" style="margin-right: 10px;" />
-</a>
-<a href='https://x.com/sakib_333x' target="_blank">
-  <img title="Twitter" src="./icons/twitter-icon.svg" height="60" alt="twitter-logo" />
-</a>
+  <table style="border-collapse: separate; border-spacing: 12px;">
+    <tr>
+      <td align="center"
+          style="background: #e8f0fe; border-radius: 12px; padding: 12px; padding-bottom: 4px">
+        <a href="https://www.linkedin.com/in/sakibur-rahman" target="_blank"
+           style="display: inline-block;">
+            <img title="LinkedIn"
+              src="./social-media-logo/linkedin.png"
+              height="36"
+              alt="linkedin-logo"
+              style="display: block;" />
+          </a>
+      </td>
+      <td align="center"
+        style="background: #e6f7ef; border-radius: 12px; padding: 12px; padding-bottom: 4px">
+        <a href="https://api.whatsapp.com/send?phone=8801955207333" target="_blank"
+            style="display: inline-block;">
+            <img title="WhatsApp"
+              src="./social-media-logo/whatsapp.png"
+              height="36"
+              alt="whatsapp-logo"
+              style="display: block;" />
+        </a>
+      </td>
+      <td align="center"
+        style="background: #f5f5f5; border-radius: 12px; padding: 12px; padding-bottom: 4px">
+        <a href="mailto:sakib071@gmail.com" target="_blank"
+            style="display: inline-block;">
+          <img title="Email"
+              src="./social-media-logo/email.png"
+              height="36"
+              alt="email-logo"
+              style="display: block;" />
+        </a>
+      </td>
+      <td align="center"
+        style="background: #e6f7ef; border-radius: 12px; padding: 12px; padding-bottom: 4px">
+        <a href="https://sakib-333.vercel.app" target="_blank"
+          style="display: inline-block;">
+          <img title="Portfolio"
+              src="./social-media-logo/web.png"
+              height="36"
+              alt="web-logo"
+              style="display: block;" />
+        </a>
+      </td>
+      <td align="center"
+          style="background: #e7f3ff; border-radius: 12px; padding: 12px; padding-bottom: 4px">
+        <a href="https://www.facebook.com/sakib071" target="_blank"
+           style="display: inline-block;">
+          <img title="Facebook"
+              src="./social-media-logo/facebook.png"
+              height="36"
+              alt="facebook-logo"
+              style="display: block;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
