@@ -45,27 +45,27 @@ WhatsApp: +8801955-207333</p>
   <tr>
     <td>
       <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
-        <img src="./skills-logo/c-logo.png" title="C Programming" alt="C-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/c-logo.png" title="C Programming" alt="C-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://www.w3schools.com/cpp" target="_blank">
-        <img src="./skills-logo/cpp-logo.png" title="C++" alt="C++-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/cpp-logo.png" title="C++" alt="C++-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="./skills-logo/js-logo.png" title="JavaScript" alt="JavaScript-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/js-logo.png" title="JavaScript" alt="JavaScript-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="./skills-logo/ts-logo.png" title="TypeScript" alt="TypeScript-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/ts-logo.png" title="TypeScript" alt="TypeScript-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="./skills-logo/html-logo.png" title="HTML" alt="HTML-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/html-logo.png" title="HTML" alt="HTML-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
   </tr>
@@ -74,27 +74,27 @@ WhatsApp: +8801955-207333</p>
   <tr>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="./skills-logo/css-logo.png" title="CSS" alt="CSS-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/css-logo.png" title="CSS" alt="CSS-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://tailwindcss.com/" target="_blank">
-        <img src="./skills-logo/tailwind-logo.png" title="Tailwind CSS" alt="Tailwind-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/tailwind-logo.png" title="Tailwind CSS" alt="Tailwind-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://mui.com/" target="_blank">
-        <img src="./skills-logo/mui-logo.png" title="Material UI" alt="MUI-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/mui-logo.png" title="Material UI" alt="MUI-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://ui.shadcn.com/" target="_blank">
-        <img src="./skills-logo/shadcn-ui-logo.png" title="shadcn UI" alt="shadcn-ui-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/shadcn-ui-logo.png" title="shadcn UI" alt="shadcn-ui-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://reactjs.org/" target="_blank">
-        <img src="./skills-logo/react-logo.png" title="React" alt="React-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/react-logo.png" title="React" alt="React-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
   </tr>
@@ -103,27 +103,27 @@ WhatsApp: +8801955-207333</p>
   <tr>
     <td>
       <a href="https://nextjs.org/" target="_blank">
-        <img src="./skills-logo/nextjs-logo.png" title="Next.js" alt="Next.js-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/nextjs-logo.png" title="Next.js" alt="Next.js-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://ant.design/" target="_blank">
-        <img src="./skills-logo/ant-design-logo.png" title="Ant Design" alt="Ant Design-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/ant-design-logo.png" title="Ant Design" alt="Ant Design-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://expo.dev/" target="_blank">
-        <img src="./skills-logo/expo-logo.png" title="Expo" alt="Expo-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/expo-logo.png" title="Expo" alt="Expo-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://nodejs.org/" target="_blank">
-        <img src="./skills-logo/nodejs-logo.png" title="Node.js" alt="Node.js-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/nodejs-logo.png" title="Node.js" alt="Node.js-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://expressjs.com/" target="_blank">
-        <img src="./skills-logo/express-logo.png" title="Express.js" alt="Express-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/express-logo.png" title="Express.js" alt="Express-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
   </tr>
@@ -132,27 +132,27 @@ WhatsApp: +8801955-207333</p>
   <tr>
     <td>
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="./skills-logo/mongodb-logo.png" title="MongoDB" alt="MongoDB-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/mongodb-logo.png" title="MongoDB" alt="MongoDB-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="./skills-logo/mysql-logo.png" title="MySQL" alt="MySQL-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/mysql-logo.png" title="MySQL" alt="MySQL-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://supabase.com/" target="_blank">
-        <img src="./skills-logo/supabase-logo.png" title="Supabase" alt="Supabase-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/supabase-logo.png" title="Supabase" alt="Supabase-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://git-scm.com/" target="_blank">
-        <img src="./skills-logo/git-logo.png" title="Git" alt="Git-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/git-logo.png" title="Git" alt="Git-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
     <td>
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="./skills-logo/vs-code-logo.png" title="VS Code" alt="VS Code-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/vs-code-logo.png" title="VS Code" alt="VS Code-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
   </tr>
@@ -161,7 +161,7 @@ WhatsApp: +8801955-207333</p>
   <tr>
     <td>
       <a href="https://redux.js.org/" target="_blank">
-        <img src="./skills-logo/redux-logo.png" title="Redux" alt="Redux-logo" width="60" height="60" style="padding:10px; background-color:#2f2f2f; border-radius:4px;" />
+        <img src="./skills-logo/redux-logo.png" title="Redux" alt="Redux-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
   </tr>
