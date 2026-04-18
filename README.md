@@ -201,7 +201,7 @@ WhatsApp: +8801955-207333</p>
       </td>
       <td align="center"
         style="background: #f5f5f5; border-radius: 12px; padding: 12px; padding-bottom: 4px">
-        <a href="mailto:sakib071@gmail.com" target="_blank"
+        <a href="mailto:sakib.cse.333@gmail.com" target="_blank"
             style="display: inline-block;">
           <img title="Email"
               src="./social-media-logo/email.png"
