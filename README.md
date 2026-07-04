@@ -164,6 +164,21 @@ WhatsApp: +8801955-207333</p>
         <img src="./skills-logo/redux-logo.png" title="Redux" alt="Redux-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
       </a>
     </td>
+    <td>
+      <a href="https://antigravity.dev/" target="_blank">
+        <img src="./skills-logo/antigravity-logo.png" title="Antigravity" alt="Antigravity-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://cursor.com/" target="_blank">
+        <img src="./skills-logo/cursor-logo.png" title="Cursor" alt="Cursor-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://zustand.docs.pmnd.rs/" target="_blank">
+        <img src="./skills-logo/zustand-logo.png" title="Zustand" alt="Zustand-logo" width="60" height="60" style="padding:10px; background-color:#e8f0fe; border-radius:4px;" />
+      </a>
+    </td>
   </tr>
 </table>
 </div>
