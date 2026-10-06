@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m a passionate <strong>Full Stack JavaScript Developer</strong> with hands-on experience in MongoDB, Express.js, React, Node.js, and TypeScript, along with professional experience in React Native for building cross-platform mobile applications. With over <strong>2 years of development experience</strong>, I enjoy creating scalable, efficient, and user-centric software by combining modern front-end technologies with reliable back-end architectures. I am a <strong>Junior Software Developer</strong> at <a href="https://edutechs.app" target="_blank">Edutechs</a>, where I developed and maintained production-ready web and mobile applications.
+<p align="left">I’m a passionate <strong>Full Stack JavaScript Developer</strong> with hands-on experience in MongoDB, Express.js, React, Node.js, and TypeScript, along with professional experience in React Native for building cross-platform mobile applications. With over <strong>2 years of development experience</strong>, I enjoy creating scalable, efficient, and user-centric software by combining modern front-end technologies with reliable back-end architectures. I am a former <strong>Junior Software Developer</strong> at <a href="https://edutechs.app" target="_blank">Edutechs</a>, where I developed and maintained production-ready web and mobile applications.
 
 As a Computer Science <strong>&#40;CSE&#41;</strong> graduate and an active competitive programmer, I have built a strong foundation in programming fundamentals, data structures, algorithms, and problem-solving. This background enables me to write clean, maintainable, and efficient code while delivering scalable solutions for real-world applications.
 
